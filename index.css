@@ -384,7 +384,7 @@ footer h2 {
         'nav'
         'main'
         'footer';
-        grid-template-rows: 8rem 2rem auto 5rem;
+        grid-template-rows: 8rem 2rem auto 5.5rem;
     }
     
     header {
@@ -530,7 +530,7 @@ background: linear-gradient(0deg, rgba(199,52,96,1) 0%, rgba(235,95,144,1) 100%)
         'nav'
         'main'
         'footer';
-        grid-template-rows: 8rem 2rem auto 5rem;
+        grid-template-rows: 8rem 2rem auto 5.3rem;
     }
     
     header {
